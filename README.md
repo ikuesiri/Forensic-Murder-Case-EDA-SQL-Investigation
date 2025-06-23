@@ -73,10 +73,10 @@ This overlap of call duration and room access places her directly at the crime s
 
 ## 📁 Repository Structure
 
-├── README.md # This file
-├── forensic_analysis.sql # SQL script containing all queries and analysis steps
-├── summary&object.txt # Problem statement and project background
-└── Dataset
+- README.md # This file
+- forensic_analysis.sql # SQL script containing all queries and analysis steps
+- summary&object.txt # Problem statement and project background
+- Dataset
 
 
 ---
