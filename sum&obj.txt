@@ -1,0 +1,21 @@
+Title: You are a Forensic Data Analyst at the FBU
+
+Roland Greene a famous art collector invited about 30 guests to a private estate auction.
+
+He was found dead at 8 PM in the Vault Room shortly after receiving a call around 19:55 PM
+
+Everyone has an alibi. One is lying.
+
+You're provided with:
+
+- Suspects list
+- Door access logs
+- Call records
+- Forensic timeline
+
+Dataset: https://drive.google.com/folderview?id=1SD_VuBZjQLO_W49lCvNiI3tdHg5qBvWe
+
+1. Who killed Roland Greene?
+2. Who are your prime suspects and why?
+
+This is a portfolio worthy project.
